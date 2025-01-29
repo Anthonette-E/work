@@ -1,10 +1,10 @@
 # Project
 
-# description
+## description
 
 attempt on branching and pulling github commits
 
-# authors/collaborators
+## authors/collaborators
 
 master ,
 feature-branch ,
